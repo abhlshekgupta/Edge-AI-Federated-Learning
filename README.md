@@ -6,10 +6,9 @@ This project is a complete, interactive web application demonstrating Edge AI co
 
 
 ---
-<img width="1404" height="916" alt="Screenshot 2025-11-22 181717" src="https://github.com/user-attachments/assets/4817028e-9334-4c01-924c-edaa0ab3156a" />
-<img width="1414" height="643" alt="Screenshot 2025-11-22 181731" src="https://github.com/user-attachments/assets/53418a6a-1b7c-4827-b2d9-858cb871c0c7" />
-<img width="1389" height="885" alt="Screenshot 2025-11-22 181746" src="https://github.com/user-attachments/assets/0ee144e9-d0b3-449d-a337-22b884493d4f" />
-<img width="1404" height="682" alt="Screenshot 2025-11-22 181802" src="https://github.com/user-attachments/assets/9ba54633-6d10-4bbf-93e3-fb883f93998c" />
+<img width="1009" height="866" alt="Screenshot 2026-07-16 214222" src="https://github.com/user-attachments/assets/89b4ffc0-187e-4405-ac16-d6f0debbb680" />
+
+<img width="945" height="678" alt="Screenshot 2026-07-16 214254" src="https://github.com/user-attachments/assets/3c204be1-031b-4108-bbea-de80fa344e4b" />
 
 ---
 
